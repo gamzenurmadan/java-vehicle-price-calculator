@@ -1,1 +1,1 @@
-# CENG211-HW2
+# java vehicle price calculator application according to vehicle type
